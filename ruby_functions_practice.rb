@@ -51,3 +51,7 @@ def number_to_short_month_name(num)
       "Sep"
   end
 end
+
+def cube_volume(length)
+  return length ** 3
+end
